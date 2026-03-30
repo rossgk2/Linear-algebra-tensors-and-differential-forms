@@ -8,6 +8,10 @@ The reason is because the pedagogy in this book is superior, at least from the p
 
 I aim to give a *best* presentation of every topic covered. There are many examples of this in each of the topics the book covers:
 
+### Logic
+
+* We explain why the truth table of the implication operator $\implies$ makes sense. This correct explanation ("implies" only takes on its English-langauge meaning when you use it inside a "for all" quantifier) is often glossed over.
+
 ### Linear algebra fundamentals
 
 Of great thematic imporatance:
