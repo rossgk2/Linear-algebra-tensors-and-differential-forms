@@ -12,7 +12,7 @@ Per its name, this book covers three topic areas: linear algebra, tensors, and m
 
 There are many books about linear algebra, tensors, and differential forms, and probably all of them are written by people who know more about these concepts than me. So why read this book?
 
-The reason is because the pedagogy in this book is superior, at least from the perspective of those who are dissatisfied with [presentations of mathematics that sacrifice understanding for logical or technical efficiency](https://github.com/rossgk2/physmath?tab=readme-ov-file#the-dreaded-efficency-pedagogy).
+The reason is because the pedagogy in this book is superior, at least from the perspective of those who are dissatisfied with [presentations of mathematics that sacrifice understanding for logical or technical efficiency](https://github.com/rossgk2/naturalphilosophy/blob/main/On%20good%20explanations.md#the-dreaded-efficency-pedagogy).
 
 I aim to give a *best* presentation of every topic covered. There are many examples of this in each of the topics the book covers:
 
@@ -62,7 +62,7 @@ I aim to give a *best* presentation of every topic covered. There are many examp
   * We can extend the previous fact, which applies to permutations of the standard ordered basis, to arbitrary orthonormal ordered bases (by using the fact that rotations preserve orientation), and then to arbitrary ordered bases (by using Gram-Schmidt). Thus the orientation of an ordered basis is the sign of the determinant of that ordered basis.
 * Differential forms are defined by using an abstract wedge product analagous to the abstract tensor product.
   * The equivalence to the usual definition of differential form is also explained.
- 
+
 ### Manifolds
 * The differential $d\mathbf{F}$ of a map $\mathbf{F}:U \subseteq M \rightarrow V \subseteq N$ between smooth charts on smooth manifolds is not simply defined, without motivation, to be $d\mathbf{F}\_\mathbf{p}(v_\mathbf{p})(f) = v_\mathbf{p}(f \circ \mathbf{F})$. Instead, we define $d\mathbf{F}\_\mathbf{p}$ to be the function $T\_\mathbf{p}(U) \rightarrow T\_{\mathbf{F}(\mathbf{p})}(V)$ whose matrix relative to the charts' coordinate bases is the Jacobian matrix of the coordinate representation of $\mathbf{F}(\mathbf{p})$.
 * The uncommon geometric definition of the exterior derivative involving flux through a parallelapiped is used and the most common algebraic definition is shown to be a consequence of this.
